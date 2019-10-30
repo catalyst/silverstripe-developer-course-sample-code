@@ -1,0 +1,6 @@
+SilverStripe\Security\Member:
+  extensions:
+    - MemberManyManyThroughExtension
+SilverStripe\SiteConfig\SiteConfig:
+  extensions:
+    - 'SiteConfigExtension'

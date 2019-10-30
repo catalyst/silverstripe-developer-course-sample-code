@@ -1,0 +1,2 @@
+<?php
+//newline is intentional

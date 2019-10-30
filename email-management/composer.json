@@ -1,0 +1,7 @@
+{
+    "name": "yourname/email-management",
+    "type": "silverstripe-vendormodule",
+    "require": {
+        "silverstripe/framework": "^4"
+    }
+}
